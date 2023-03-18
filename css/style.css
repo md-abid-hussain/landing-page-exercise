@@ -37,3 +37,33 @@ body{
 header,.primary-header,.primary-nav>ul,.hero,.hero-section,.detail-images,.call-to-action{
     display: flex;
 }
+
+header,.hero,footer{
+    background:#1f2937;
+    color:white;
+}
+
+/* main */
+
+.primary-header{
+    width: 1100px;
+    margin-inline: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    text-transform: lowercase;
+    font-family: 'Lobster', cursive;
+    letter-spacing: 1px;
+    font-size: 40px;
+    width:200px;
+}
+
+.primary-nav>ul{
+    display: flex;
+    gap:1rem;
+    text-transform: uppercase;
+    font-size:18px;
+    color:#e5e7eb;
+}
