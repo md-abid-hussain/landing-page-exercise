@@ -154,6 +154,14 @@ header,.hero,footer{
     font-style: normal;
 }
 
+.call-to-action p{
+    color:#E5E7EB;
+}
+
+.call-to-action a{
+    border:1px solid;
+}
+
 /* Footer */
 
 footer{
