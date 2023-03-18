@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Ubuntu:ital,wght@0,400;0,700;1,300&display=swap');
 /* CSS reset */
 
 *{
@@ -28,4 +29,5 @@ body{
     font-family: sans-serif;
     line-height: 1.5;
     word-spacing: 1px;
+    font-family: 'Ubuntu', sans-serif;
 }
