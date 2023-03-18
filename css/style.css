@@ -67,3 +67,89 @@ header,.hero,footer{
     font-size:18px;
     color:#e5e7eb;
 }
+
+/* Hero Section */
+
+.hero-section{
+    width:1100px;
+    padding:5rem 0;
+    justify-content: space-between;
+    align-items: center;
+    margin-inline:auto;
+}
+
+.about h2{
+    font-size: 48px;
+}
+
+.hero-para{
+    width:400px;
+    font-size: 18px;
+    color:#E5E7EB;
+    margin-bottom:10px
+}
+
+.hero-section img{
+   width:550px; 
+}
+
+.about a, .call-to-action a{
+    background:#3882f6;
+    display: inline-block;
+    padding:0.5rem 2.5rem;
+    border-radius:10px;
+    color:white;
+}
+/* Detail section */
+
+.details>div{
+    width:1050px;
+    margin:2rem auto 5rem auto;
+}
+
+.details h2{
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size:36px;
+    font-weight: 700;
+}
+.details img{
+    width:200px;
+    border: 5px solid #3882f6;
+    border-radius: 10px;
+}
+
+.detail-images{
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.detail-images>figure{
+    width:200px;
+    text-align: center;
+}
+
+.detail-images figcaption{
+    margin-top: 5px;
+}
+
+/* Quote section */
+
+.quote{
+    background-color: #E5E7EB;
+}
+
+.quote div{
+    width:1100px;
+    margin-inline:auto;
+    padding:6rem 0;
+    font-size: 36px;
+    font-weight: 300;
+    font-style:italic;
+}
+
+.quote p{
+    text-align: right;
+    font-weight: 700;
+    font-style: normal;
+}
