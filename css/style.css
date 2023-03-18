@@ -31,3 +31,9 @@ body{
     word-spacing: 1px;
     font-family: 'Ubuntu', sans-serif;
 }
+
+/* Common CSS */
+
+header,.primary-header,.primary-nav>ul,.hero,.hero-section,.detail-images,.call-to-action{
+    display: flex;
+}
