@@ -154,6 +154,18 @@ header,.hero,footer{
     font-style: normal;
 }
 
+/* call to action section */
+.call-to-action{
+    align-items: center;
+    justify-content: space-between;
+    width:1050px;
+    margin:5rem auto;
+    background-color: #3882f6;
+    padding:2rem 4.5rem;
+    border-radius:10px;
+    color:white;
+}
+
 .call-to-action p{
     color:#E5E7EB;
 }
