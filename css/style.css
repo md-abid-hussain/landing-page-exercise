@@ -65,7 +65,18 @@ header,.hero,footer{
     gap:1rem;
     text-transform: uppercase;
     font-size:18px;
+}
+
+.primary-nav a{
     color:#e5e7eb;
+}
+
+.primary-nav a:hover, .primary-nav a:focus{
+    color:#e5e7eb83;
+}
+
+.primary-nav a:active{
+    color:#3882f6;
 }
 
 /* Hero Section */
