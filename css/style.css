@@ -22,3 +22,10 @@ a{
     text-decoration: none;
     color:black;
 }
+
+/* Body */
+body{
+    font-family: sans-serif;
+    line-height: 1.5;
+    word-spacing: 1px;
+}
